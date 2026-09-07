@@ -1,4 +1,4 @@
-# E-Commerce Sales & Profit Leakage Analysis | Power BI
+# E-Commerce Profitability & Sales Analysis | Power BI | Power BI
 
 ## Project Overview
 
