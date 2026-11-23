@@ -1,0 +1,19 @@
+# Power BI temporary and local files
+*.pbix.autorecover
+*.pbix.tmp
+*.pbit.autorecover
+*.tmp
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Editor / operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
