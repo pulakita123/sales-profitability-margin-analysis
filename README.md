@@ -103,12 +103,16 @@ sales-profitability-margin-analysis/
 ├── Details.csv
 ├── Orders.csv
 ├── ecommerce sales profit leakage dashboard.pbix
+├── scripts/
+│   └── validate_data.py
 └── docs/
     ├── BUSINESS_PROBLEM.md
     ├── DATA_DICTIONARY.md
+    ├── DAX_MEASURES.md
     ├── KEY_FINDINGS.md
     ├── METHODOLOGY.md
-    └── DAX_MEASURES.md
+    ├── PROJECT_REPORT.md
+    └── REPRODUCING_ANALYSIS.md
 ```
 
 ## How to explore the project
