@@ -85,7 +85,7 @@ I then checked the record counts, missing values, duplicate records and whether 
 
 The most important analytical decision was to calculate loss-making orders at the **order level**. A single order can have several product rows, and one negative-profit product row does not necessarily mean that the entire order lost money. I therefore aggregated profit by Order ID before counting loss-making orders.
 
-The complete workflow and validation notes are in [Methodology](docs/METHODOLOGY.md).
+The complete workflow and validation notes are in [Methodology](docs/METHODOLOGY.md). The first-person end-to-end business write-up is available in the [Project Report](docs/PROJECT_REPORT.md).
 
 ## Tools and skills
 
