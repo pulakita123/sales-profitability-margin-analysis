@@ -1,4 +1,4 @@
-# E-Commerce Sales & Profitability Analysis | Power BI
+# Profitability Under the Lens: Sales & Margin Analysis | Power BI
 
 An interactive Power BI analysis of 500 e-commerce orders, built to understand not only how much the business sells, but where it makes money, where it loses money, and which areas deserve closer attention.
 
@@ -98,7 +98,7 @@ The complete workflow and validation notes are in [Methodology](docs/METHODOLOGY
 ## Repository contents
 
 ```text
-ECommerce-Profitability-Sales-Analysis/
+sales-profitability-margin-analysis/
 ├── README.md
 ├── Details.csv
 ├── Orders.csv
