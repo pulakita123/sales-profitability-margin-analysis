@@ -118,7 +118,7 @@ ECommerce-Profitability-Sales-Analysis/
 3. Review the overview page first, then use the profitability and loss analysis visuals to investigate categories, sub-categories, regions, months and payment methods.
 4. Read the documentation in the `docs/` folder for the business context, data definitions, calculations and findings.
 
-The PBIX file is included as the interactive deliverable. The CSV files are included so that the data structure can be reviewed.
+The PBIX file is included as the interactive deliverable. The CSV files are included so that the data structure can be reviewed. You can also run the independent data checks using the [validation script](scripts/validate_data.py); setup instructions are in [Reproducing the Analysis](docs/REPRODUCING_ANALYSIS.md).
 
 ## Limitations and next steps
 
